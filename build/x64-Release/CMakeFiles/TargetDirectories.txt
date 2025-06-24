@@ -1,0 +1,8 @@
+G:/Projects/C++/vulkan1/build/x64-Release/CMakeFiles/Vulkan.dir
+G:/Projects/C++/vulkan1/build/x64-Release/CMakeFiles/edit_cache.dir
+G:/Projects/C++/vulkan1/build/x64-Release/CMakeFiles/rebuild_cache.dir
+G:/Projects/C++/vulkan1/build/x64-Release/include/glm/CMakeFiles/edit_cache.dir
+G:/Projects/C++/vulkan1/build/x64-Release/include/glm/CMakeFiles/rebuild_cache.dir
+G:/Projects/C++/vulkan1/build/x64-Release/include/glm/glm/CMakeFiles/glm.dir
+G:/Projects/C++/vulkan1/build/x64-Release/include/glm/glm/CMakeFiles/edit_cache.dir
+G:/Projects/C++/vulkan1/build/x64-Release/include/glm/glm/CMakeFiles/rebuild_cache.dir

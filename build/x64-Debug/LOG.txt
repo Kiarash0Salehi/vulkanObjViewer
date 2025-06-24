@@ -1,0 +1,8 @@
+
+[2025-06-24 12:18:16] Run ...
+[2025-06-24 12:18:16] Graphics card : NVIDIA GeForce GTX 1660 SUPER
+[2025-06-24 12:18:19] File dropped : "C:\Users\Kiarash\Desktop\cube.obj"
+[2025-06-24 12:18:23] File dropped : "C:\Users\Kiarash\Desktop\sphere.obj"
+[2025-06-24 12:18:27] File dropped : "C:\Users\Kiarash\Desktop\quad.obj"
+[2025-06-24 12:18:30] File dropped : "C:\Users\Kiarash\Desktop\monkey.obj"
+[2025-06-24 12:18:37] Window closed.

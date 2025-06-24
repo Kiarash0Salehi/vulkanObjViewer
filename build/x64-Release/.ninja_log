@@ -1,0 +1,8 @@
+# ninja log v6
+11	120	7668249707966223	CMakeFiles/Vulkan.dir/LoadObj.c.obj	64b774aa57c7d389
+24	1573	7668678756464808	CMakeFiles/Vulkan.dir/vke.cpp.obj	a81e116cc13279c4
+24	1224	7668685516930095	CMakeFiles/Vulkan.dir/main.cpp.obj	7060119d8f63eae0
+1224	1500	7668685528806842	Vulkan.exe	3bbcd8c465b86779
+28	1020	7668678756464808	CMakeFiles/Vulkan.dir/logger.c.obj	3f78c856065a9e7f
+16	1197	7668695165470408	CMakeFiles/Vulkan.dir/main.cpp.obj	7060119d8f63eae0
+1198	1594	7668695177283890	Vulkan.exe	3bbcd8c465b86779

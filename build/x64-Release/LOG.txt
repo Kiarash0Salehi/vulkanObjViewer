@@ -1,0 +1,38 @@
+
+[2025-04-25 11:30:30] Run ...
+[2025-04-25 11:30:31] Graphics card : NVIDIA GeForce GTX 1660 SUPER
+[2025-04-25 11:30:34] File dropped : "C:\Users\Kiarash\Desktop\quad.obj"
+[2025-04-25 11:30:44] File dropped : "C:\Users\Kiarash\Desktop\cube.obj"
+[2025-04-25 11:31:01] File dropped : "C:\Users\Kiarash\Desktop\sphere.obj"
+[2025-04-25 11:31:11] File dropped : "C:\Users\Kiarash\Desktop\monkey.obj"
+[2025-04-25 11:32:05] File dropped : "C:\Users\Kiarash\Desktop\quad.obj"
+[2025-04-25 11:32:07] File dropped : "C:\Users\Kiarash\Desktop\flat_vase.obj"
+[2025-04-25 11:32:10] File dropped : "C:\Users\Kiarash\Desktop\smooth_vase.obj"
+[2025-04-25 11:32:15] File dropped : "C:\Users\Kiarash\Desktop\cube.obj"
+[2025-04-25 11:33:51] Window closed.
+[2025-04-25 12:34:57] Run ...
+[2025-04-25 12:34:58] Graphics card : NVIDIA GeForce GTX 1660 SUPER
+[2025-04-25 12:34:59] File dropped : "C:\Users\Kiarash\Desktop\quad.obj"
+[2025-04-25 12:35:04] File dropped : "C:\Users\Kiarash\Desktop\cube.obj"
+[2025-04-25 12:36:43] Window closed.
+[2025-04-29 23:45:38] Run ...
+[2025-04-29 23:45:38] Graphics card : NVIDIA GeForce GTX 1660 SUPER
+[2025-04-29 23:47:29] File dropped : "C:\Users\Kiarash\Desktop\vulkan1\models\cone.obj"
+[2025-04-29 23:47:48] File dropped : "C:\Users\Kiarash\Desktop\vulkan1\models\cube.obj"
+[2025-04-29 23:47:56] File dropped : "C:\Users\Kiarash\Desktop\vulkan1\models\cylinder.obj"
+[2025-04-29 23:48:04] File dropped : "C:\Users\Kiarash\Desktop\vulkan1\models\sphere.obj"
+[2025-04-29 23:48:10] File dropped : "C:\Users\Kiarash\Desktop\vulkan1\models\ico_sphere.obj"
+[2025-04-29 23:48:46] Window closed.
+[2025-05-30 18:49:21] Run ...
+[2025-05-30 18:49:21] Graphics card : NVIDIA GeForce GTX 1660 SUPER
+[2025-05-30 18:49:30] File dropped : "C:\Users\Kiarash\Desktop\vulkan1\models\cylinder.obj"
+[2025-05-30 18:49:38] File dropped : "C:\Users\Kiarash\Desktop\vulkan1\models\ico_sphere.obj"
+[2025-05-30 18:49:47] File dropped : "C:\Users\Kiarash\Desktop\vulkan1\models\sphere.obj"
+[2025-05-30 18:49:58] File dropped : "C:\Users\Kiarash\Desktop\vulkan1\models\cone.obj"
+[2025-05-30 19:05:04] File dropped : "C:\Users\Kiarash\Desktop\vulkan1\models\cube.obj"
+[2025-05-30 19:05:13] File dropped : "C:\Users\Kiarash\Desktop\vulkan1\models\cylinder.obj"
+[2025-05-30 19:06:26] Window closed.
+[2025-06-24 12:04:39] Run ...
+[2025-06-24 12:04:39] Graphics card : NVIDIA GeForce GTX 1660 SUPER
+[2025-06-24 12:04:41] File dropped : "C:\Users\Kiarash\Desktop\cube.obj"
+[2025-06-24 12:04:49] Window closed.
